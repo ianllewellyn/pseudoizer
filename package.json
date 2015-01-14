@@ -1,0 +1,28 @@
+{
+  "name": "pseudoizer",
+  "version": "0.0.0",
+  "description": "A javascript library for pseudo-izing strings to aid with localization",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test --require chai"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ianllewellyn/pseudoizer.git"
+  },
+  "keywords": [
+    "javascript",
+    "localisation",
+    "internationalisation"
+  ],
+  "author": "ianllewellyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianllewellyn/pseudoizer/issues"
+  },
+  "homepage": "https://github.com/ianllewellyn/pseudoizer",
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "chai": "^1.10.0"
+  }
+}
