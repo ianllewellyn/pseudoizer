@@ -2,7 +2,7 @@
 
 A javascript library for pseudo-izing strings to aid with localization.
 
-This idea is borrowed (but not directly ported) from Scott Hanselmans .Net Pseudoizer library for use in Node. (Original library)[https://github.com/shanselman/Psuedoizer].
+This idea is borrowed (but not directly ported) from Scott Hanselmans .Net Pseudoizer library for use in Node. [Original library](https://github.com/shanselman/Psuedoizer).
 
 ## Installing
 
