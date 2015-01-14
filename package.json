@@ -1,6 +1,6 @@
 {
   "name": "pseudoizer",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A javascript library for pseudo-izing strings to aid with localization",
   "main": "lib/index.js",
   "scripts": {
